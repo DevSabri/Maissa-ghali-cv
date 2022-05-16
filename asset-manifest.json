@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Maissa-ghali-cv/static/css/main.2f2e03bf.css",
+    "main.js": "/Maissa-ghali-cv/static/js/main.5ade95ee.js",
+    "static/media/bg-fiber.png": "/Maissa-ghali-cv/static/media/bg-fiber.1c5859a78cf4acdab234.png",
+    "static/media/profil.png": "/Maissa-ghali-cv/static/media/profil.85df0b8a314d07ec72b2.png",
+    "static/media/cv.pdf": "/Maissa-ghali-cv/static/media/cv.c9f829a61564d4bab3aa.pdf",
+    "static/media/aboutimg.jpg": "/Maissa-ghali-cv/static/media/aboutimg.33e1de55fdee8a7b2021.jpg",
+    "index.html": "/Maissa-ghali-cv/index.html",
+    "main.2f2e03bf.css.map": "/Maissa-ghali-cv/static/css/main.2f2e03bf.css.map",
+    "main.5ade95ee.js.map": "/Maissa-ghali-cv/static/js/main.5ade95ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f2e03bf.css",
+    "static/js/main.5ade95ee.js"
+  ]
+}
